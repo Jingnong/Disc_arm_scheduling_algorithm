@@ -1,5 +1,5 @@
 # Disc_arm_scheduling_algorithms
 Simulation of disc arm scheduling algorithm in operating systems.
-First Come-First Serve (FCFS)
-Shortest Seek First (SSF)
-Elevator algorithms (LOOK)
+1. First Come-First Serve (FCFS)
+2. Shortest Seek First (SSF)
+3. Elevator algorithms (LOOK)
